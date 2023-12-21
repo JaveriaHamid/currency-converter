@@ -1,1 +1,2 @@
-The Currency Convertor is published at
+The Currency Converter is published at
+https://javeriahamid.github.io/currency-converter/
